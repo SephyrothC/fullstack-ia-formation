@@ -1,4 +1,3 @@
-Parfait ! Voici une proposition de structure pour **Cours 0 : Introduction**, intégrant tout ce que tu as défini :
 
 ---
 
