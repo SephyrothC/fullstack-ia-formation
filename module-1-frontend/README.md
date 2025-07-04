@@ -19,7 +19,7 @@
 ## 🎓 Certifications recommandées
 
 - [FreeCodeCamp – Responsive Web Design](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
-- [OpenClassrooms – Créez une page web moderne](https://openclassrooms.com/fr/courses/6691346-creez-une-page-web-moderne-avec-html5-et-css3)
+- [FreeCodeCamp - Front End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries/)
 
 ---
 
@@ -29,29 +29,32 @@
   - Page d'accueil, section compétences, projets, contact
   - Design responsive et moderne
 
-**ou**
-
-- **Application To-Do List**
-  - Ajout, suppression, édition de tâches
-  - Sauvegarde locale (localStorage)
 
 ---
 
 ## ✅ À faire
 
-- [ ] Revoir les bases HTML / CSS
-- [ ] Compléter les tutos proposés
-- [ ] Créer une maquette (Figma ou papier)
-- [ ] Implémenter une UI avec React
-- [ ] Publier sur GitHub Pages ou Vercel
+- [ ] Introduction à Bootstrap
+- [ ] Bootstrap Grid
+- [ ] Bootstrap Components
+- [ ] jQuery Selectors
+- [ ] jQuery Events & Effects
+- [ ] Sass	Sass Variables & Nesting
+- [ ] Sass Partials & Mixins
+- [ ] React Components
+- [ ] JSX & Props
+- [ ] State & Lifecycle
+- [ ] Introduction à Redux
+- [ ] Actions, Reducers, Store
+- [ ] Connecter React & Redux
+- [ ] Projet 1: Random Quote Machine
+- [ ] Projet 2: Markdown Previewer
+- [ ] Projet 3: Drum Machine
+- [ ] Projet 4: JavaScript Calculator
+- [ ] Projet 5: 25 + 5 Clock
 
 ---
 
 ## 🔗 Ressources
 
-- [MDN Web Docs – HTML/CSS](https://developer.mozilla.org/fr/)
-- [CSS Tricks – Flexbox Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-- [React Docs – Getting Started](https://reactjs.org/docs/getting-started.html)
-
-
-dnhbzhjkhfejkg"ajkhezfvghjzehjk
+- [Cour](./Cour/Cour.md)
