@@ -1,42 +1,25 @@
-# 🐍 Module 3 – Programmation Python
+# 📦 Module 3 : Python - Programmation et Structures de Données
 
-🎯 **Objectif** : Être autonome avec Python pour la data
+## 🧭 Objectif du module
 
----
+Ce module t'introduit au langage **Python**, avec pour objectif de valider la certification suivante sur freeCodeCamp :
 
-## 📚 Contenu du module
+🎓 [Certification Python - Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
 
-- Types de données, structures conditionnelles et boucles
-- Fonctions, classes et modules
-- Manipulation de fichiers (CSV, JSON)
-- Utilisation de Git et GitHub
+## ✅ Ce que tu vas faire :
 
----
+1. Suivre le **cours d'introduction à Python** : syntaxe, variables, fonctions, conditions, boucles, listes, dictionnaires, etc.
+2. Suivre et valider les chapitres de la certification :
 
-## 🎓 Certifications recommandées
+   * **Python for Everybody**
+   * **Scientific Computing with Python Projects**
+3. Faire le **TP final** : Un script Python de gestion d'heures de travail et de salaire (inspiré d'un projet final)
 
-- Python for Everybody (Coursera)
-- Exercices pratiques : [LeetCode Python](https://leetcode.com/problemset/all/?difficulty=Easy&tags=python)
+## 📂 Livrables à rendre
 
----
+* ✅ Captures d'écran de validation de la certification
+* ✅ Code source du projet final Python
+* ✅ Fichier `README.md` avec explication du projet
 
-## 🛠️ Projet pratique
 
-- Écrire un script de conversion (ex : .csv → .json)
-- Nettoyage et traitement de données avec Python
 
----
-
-## ✅ À faire
-
-- [ ] Compléter la formation Python for Everybody
-- [ ] Réaliser 10 exercices LeetCode faciles
-- [ ] Créer un script d'automatisation simple
-- [ ] Versionner le script sur GitHub
-
----
-
-## 🔗 Ressources
-
-- [Documentation officielle Python](https://docs.python.org/fr/3/)
-- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)

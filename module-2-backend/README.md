@@ -1,42 +1,34 @@
-# 🔧 Module 2 – Développement Backend
+# Module 2 : Back End Development and APIs
 
-🎯 **Objectif** : Construire un backend REST API simple
+## 🎯 Objectifs du module
+- Comprendre les bases du développement backend avec Node.js et Express
+- Savoir créer des APIs RESTful simples
+- Manipuler les bases de données (MongoDB)
+- Maîtriser l'architecture client-serveur
+- Préparer et valider la certification freeCodeCamp
 
----
+## 🏁 Étapes à compléter
 
-## 📚 Contenu du module
+### 📚 Étape 1 : Cours préparatoire (obligatoire)
+- Lancer le fichier `cours-intro-backend.md` et suivre les instructions pas à pas.
 
-- Node.js & Express.js
-- Connexion à une base de données MongoDB ou PostgreSQL (via Prisma)
-- Notions de sécurité essentielles : CORS, JWT, hashage de mot de passe
+### 🧠 Étape 2 : Certification freeCodeCamp
+Suivre entièrement la certification :
 
----
+🔗 [Back End Development and APIs Certification (freeCodeCamp)](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
 
-## 🎓 Certifications recommandées
+Contenu :
+- Managing Packages with npm
+- Basic Node and Express
+- Working with Middleware
+- Basic Routing
+- Handling GET/POST Requests
+- MongoDB and Mongoose
 
-- Meta Back-End Developer (Coursera – partie backend)
+### 🔧 Étape 3 : Exercice de validation (obligatoire)
+Réaliser le TP : `tp-project-backend.md` basé sur le projet final de certification.
 
----
-
-## 🛠️ Projet pratique
-
-- Construire une API REST (blog ou tâches)
-- Connexion à une base de données
-- Communication avec un frontend React
-
----
-
-## ✅ À faire
-
-- [ ] Suivre la formation Meta (backend)
-- [ ] Implémenter l’API REST (CRUD complet)
-- [ ] Ajouter l’authentification avec JWT
-- [ ] Héberger l’API localement ou via Render
-
----
-
-## 🔗 Ressources
-
-- [Express.js Guide](https://expressjs.com/)
-- [Prisma Docs](https://www.prisma.io/docs/)
-- [JWT Intro](https://jwt.io/introduction)
+## ✅ À rendre
+- Le lien vers le projet final hébergé sur Replit/Glitch/Vercel ou tout autre service
+- Le code source dans un dépôt GitHub (ou zip)
+- Le fichier `tp-project-backend.md` complété
