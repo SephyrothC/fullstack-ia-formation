@@ -9,7 +9,7 @@ try :
         lecture = fichier.read()  #lecture du fichier
         lecture = lecture.lower() # minuscule
         text = lecture.replace("\n", " ").split() #remplace les saut de lignes par des espace et split les mot du text 
-       # print (text) #ecriture sur le terminal
+        print (text) #ecriture sur le terminal
 except :
     print('le fichier est introuvable')
 
