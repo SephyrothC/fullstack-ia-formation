@@ -1,0 +1,28 @@
+fname = input('Enter File : ')  #demande un fichier txt
+if len(fname) < 1: fname = 'clown.txt'   # si aucun fichier n'est choisis le fichier clown.txt est choisi d'office
+hand = open(fname)  #le fichier txt est stocker dans la variable hand 
+
+di = dict()
+for lin in hand:
+    lin = lin.rstrip()
+    #print (lin)
+    wds = lin.split()
+    #print (wds)
+    for w in wds:
+        
+        di[w] = di.get(w,0) + 1 
+
+#print (di)  #on voit le dictionnaire
+
+tmp = list()
+
+for k,v in di.items() :
+    nextuple = (v,k) # on crée un dictionnaire avec une inversion de l'ordre des valeur et keys
+    tmp.append(nextuple) #on viens ajouter a chaque itération de boucle dans le tupple tmp (la keys et value)
+#print (tmp)
+
+tmp = sorted(tmp, reverse=True) # on trie le tuple par ordre croissant de value, on ajout reverse pour le faire en decroissant
+#print(tmp[:5]) #pour afficher que les 5  premier
+
+for v,k in tmp[:5] :
+    print (v,k)

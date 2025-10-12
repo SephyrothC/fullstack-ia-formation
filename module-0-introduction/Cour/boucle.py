@@ -34,10 +34,16 @@
 # print(i)
 
 
-words = 'His e-mail is q-lar@freecodecamp.org'
-pieces = words.split()
-print(pieces)
-parts = pieces[3].split('-')
-print(parts)
-n = parts[1]
-print(n)
+# words = 'His e-mail is q-lar@freecodecamp.org'
+# pieces = words.split()
+# print(pieces)
+# parts = pieces[3].split('-')
+# print(parts)
+# n = parts[1]
+# print(n)
+
+d  = {'a':10 , 'c':22, 'b':1}
+d.items
+print(d)
+sorted(d.items())
+print(sorted(d.items()))

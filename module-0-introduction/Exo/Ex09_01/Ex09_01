@@ -1,0 +1,23 @@
+fname = input('Enter File : ')  #demande un fichier txt
+if len(fname) < 1: fname = 'clown.txt'   # si aucun fichier n'est choisis le fichier clown.txt est choisi d'office
+hand = open(fname)  #le fichier txt est stocker dans la variable hand 
+
+di = dict()
+for lin in hand:
+    lin = lin.rstrip()
+    #print (lin)
+    wds = lin.split()
+    #print (wds)
+    for w in wds:
+        print (di)
+        di[w] = di.get(w,0) + 1 
+
+#trouver le composants le plus commun 
+largest = -1
+theword = None 
+for k,v in di.items() :
+     if v > largest :
+         largest = v
+         theword = k
+
+print('Done',largest,theword)
